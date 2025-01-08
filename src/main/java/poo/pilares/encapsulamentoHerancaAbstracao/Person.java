@@ -1,7 +1,7 @@
 package poo.pilares.encapsulamentoHerancaAbstracao;
 
 /*
-    Em POO, classes são modelos/blueprints para criar objetos.
+    Em POO, classes são modelos/‘blueprints’ para criar objetos.
     Classes podem conter atributos (dados) e métodos (comportamentos).
     Objetos são instâncias de classes, com estado e comportamento.
  */

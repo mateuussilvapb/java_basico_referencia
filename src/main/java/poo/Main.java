@@ -20,7 +20,7 @@ public class Main {
             * Encapsulamento: Ocultação de detalhes internos, protegendo dados
             * Herança: Permite que uma classe herde características de outra
             * Polimorfismo: Capacidade de um objeto ser tratado como diferentes tipos
-            * Abstração: Simplificação de sistemas complexos através de representações essenciais
+            * Abstração: Simplificação de sistemas complexos por representações essenciais
 
         Benefícios principais:
             * Código mais organizado e reutilizável

@@ -5,9 +5,9 @@ package poo.pilares.encapsulamentoHerancaAbstracao;
         * Herança permite que uma classe herde características de outra. A classe filha
             (subclasse) herda atributos e métodos da classe pai (superclasse).
         * A abstração é a simplificação de objetos do mundo real para o mundo digital, de forma a
-            capturar apenas o essencial de acordo com a necessidade de sua aplicação.
+            capturar apenas o essencial conforme a necessidade da sua aplicação.
     Observe que a classe filha (Worker) consegue acessar métodos e atributos da classe pai (Person)
-    e, além disso, possui seus próprios métodos e atributos.
+    e, além disso, possui os seus próprios métodos e atributos.
  */
 public class Worker extends Person {
 

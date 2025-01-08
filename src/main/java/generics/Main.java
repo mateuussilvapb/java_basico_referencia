@@ -51,8 +51,8 @@ public class Main {
 
     /*
      * Exemplo do uso de generics com wildcards.
-     * Essa utilização é útil quando não se sabe o tipo de dado que será utilizado,
-     * porém ela não é recomendada, exatamente por não se saber o tipo de dado que será utilizado.
+     * Essa utilização é útil quando não se sabe o tipo de dado que será utilizado.
+     * Porém, ela não é recomendada, exatamente por não se saber o tipo de dado que será utilizado.
      * Essa aplicação pode levar a erros de execução.
      */
     public static void printList(List<?> list) {

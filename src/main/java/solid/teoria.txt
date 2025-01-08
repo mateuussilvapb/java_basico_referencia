@@ -1,0 +1,4 @@
+Princípios SOLID:
+    - Projetam software mais manutenível, flexível e escalável
+    - Promovem baixo acoplamento e alta coesão entre componentes
+    - Facilitam refatoração e extensão de código
