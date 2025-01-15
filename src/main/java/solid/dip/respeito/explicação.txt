@@ -1,0 +1,14 @@
+/*
+ * Para respeitar o Princípio da Inversão de Dependência, criamos a interface 'IDBProduct',
+ * que define a assinatura de um método para simular a consulta de um produto por ID.
+ * Em seguida, implementamos três diferentes classes que seguem essa interface, oferecendo
+ * múltiplas formas de acessar os dados do produto.
+ * 
+ * Além disso, criamos uma fábrica (factory) para retornar uma implementação de 'IDBProduct'
+ * com base em uma lógica de negócios. Neste exemplo, utilizamos um enum para escolher
+ * qual implementação será usada.
+ * 
+ * Na classe 'Payment', utilizamos a interface 'IDBProduct' como o tipo da variável responsável
+ * por realizar a consulta. A escolha da implementação específica é delegada a um método de
+ * fábrica, que retorna a instância apropriada conforme a regra de negócio.
+ */
